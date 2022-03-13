@@ -54,7 +54,7 @@ I'm allways looking for ways to get better. Lately I admire people like Uncle Bo
 * Vegan indian food!
 
 ### Personal projects
-* 2018: 4 poems for Splinter (in spanish, Astilla), an experimental editorial
-* 2019: Against (in spanish, Contra) a self published poetry book
-* 2020: Seven (in spanish, Siete), a self published short stories book, foreword by Nicolás Hochman
+* 2018: 4 poems for Splinter (in spanish, Astilla), an experimental editorial project
+* 2019: Against (in spanish, Contra), a self published poetry book
+* 2020: Seven (in spanish, Siete), a self published short stories book with foreword by Nicolás Hochman
 * 2022: Stereo (in progress), a dystopian nouvelle
