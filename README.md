@@ -5,14 +5,14 @@
 gonzalonediani (at) gmail.com
 
 ### Some facts about me
-I'm 31 years old, I was born the 1st of december of 1990. I've been living in Buenos Aires for a decade now, but I'm originally from the north of Argentina.
+I'm 31 years old, I was born the 1st of december of 1990. I've been living in Buenos Aires for a decade now, but I'm originally from the north of Argentina. I came here to try my luck and now it's one of my favorite places in the world, but sadly I haven't travelled much.
 
 ### What is my profile
 I am a developer who likes to communicate with it's sorroundings in order to generate clean and flexible software products. I have a passion for refactoring. 
 
 Or maybe it's just an obsession with green check marks.
 
-I'm allways looking for ways to get better. Lately I admire people like Uncle Bob, Rich Roll or David Goggings.
+I'm allways looking for areas to improve. Lately I admire people like Courtney Dauwalter, Nina Kraviz or Mel Robbins.
 
 ---
 
